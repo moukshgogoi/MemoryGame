@@ -16,6 +16,7 @@ function loadImages(set) {
     basePath + "img7.jpg",
     basePath + "img8.jpg",
     basePath + "img9.jpg",
+    basePath + "img10.jpg",
     basePath + "img10.jpg"
     
   ];
